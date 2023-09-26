@@ -34,7 +34,7 @@ public class AddingBooks extends HttpServlet {
 		Part p = request.getPart("book_img");
  
 		String filename = p.getSubmittedFileName();
-		System.out.println("filename name is: " + filename + " and the image is " + p);
+		//System.out.println("filename name is: " + filename + " and the image is " + p);
 		
 		
 		System.out.println(status);
