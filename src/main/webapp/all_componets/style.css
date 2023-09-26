@@ -1,0 +1,21 @@
+.bg-custom{
+	background-color: #8080ff;
+}
+.navbar .nav-item:hover .nav-link{
+	border-bottom:1px solid white;
+
+	color: white;
+	box-sizing: border-box;
+	
+}
+.footer-login{
+	margin-top: 180px;
+}
+.register-footer{
+	margin-top: 40px;
+}
+.title:hover {
+	border-bottom: 2px solid green;
+}
+
+
